@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://helixoriginator.github.io/Ready-Reckoner/sitemap.xml
