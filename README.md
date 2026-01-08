@@ -19,7 +19,15 @@
 
 **Ready Reckoner** is a revolutionary decision-making tool designed to provide instant calculations, quick reference data, and comprehensive decision support. This pioneering application combines speed, accuracy, and intuitive design to transform how professionals, students, and researchers make informed decisions.
 
-Part of the **World's First Ready Reckoner Series**, this tool represents cutting-edge innovation in evidence-based systematic frameworks for rapid understanding of complex subjects across culture, law, policy, governance, and society.
+This tool is based on the core ready reckoner concept available at [bright-beijinho-928ad1.netlify.app](https://bright-beijinho-928ad1.netlify.app/) - a fast, efficient calculation and reference platform.
+
+<div align="center">
+
+[![Explore Kallol's Ready Reckoner Series](https://img.shields.io/badge/📚%20Explore-Kallol's%20Ready%20Reckoner%20Series-blueviolet?style=for-the-badge)](https://helixoriginator.github.io/kallol-ready-reckoner/)
+
+**Discover 19+ Evidence-Based Frameworks by Kallol Chakrabarti**
+
+</div>
 
 ---
 
@@ -180,21 +188,6 @@ Explore the complete series of systematic frameworks:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues) for open items.
-
----
-
-## 🌟 Acknowledgments
-
-Special thanks to:
-- The global research community for continuous inspiration
-- Users and contributors who provide valuable feedback
-- Open-source community for tools and resources
 
 ---
 
